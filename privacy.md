@@ -27,8 +27,7 @@ This data never leaves your device. It is not accessible to us or to anyone else
 
 ### Permissions the app requests
 
-- **Notifications** — used to show optional daily reading reminders and the playback notification with a Stop button while a book is being read aloud. You can decline or revoke this permission at any time; the app remains fully functional.
-- **Run at startup (boot completed)** — used only to reschedule your reading reminders after the device restarts.
+- **Notifications** — used only for the playback notification with a Stop button while a book is being read aloud. Permission is requested when you first start narration; you can decline or revoke it at any time — narration keeps working, just without the notification.
 - **File access** — books are opened only through the system file picker or when you explicitly open a file with ReadNest. The app does not scan or index your storage.
 
 ### Read-aloud (text-to-speech)
@@ -72,8 +71,7 @@ ReadNest **не собирает, не хранит на серверах, не 
 
 ### Разрешения, которые запрашивает приложение
 
-- **Уведомления** — для необязательных ежедневных напоминаний почитать и для уведомления с кнопкой «Стоп» во время озвучки книги. Разрешение можно не давать или отозвать — приложение останется полностью работоспособным.
-- **Автозапуск после перезагрузки** — только чтобы заново запланировать напоминания после перезагрузки устройства.
+- **Уведомления** — только для уведомления с кнопкой «Стоп» во время озвучки книги. Разрешение запрашивается при первом запуске озвучки; его можно не давать или отозвать — озвучка продолжит работать, просто без плашки в шторке.
 - **Доступ к файлам** — книги открываются только через системный выбор файла или когда вы сами открываете файл с помощью ReadNest. Приложение не сканирует и не индексирует хранилище.
 
 ### Озвучка (синтез речи)
