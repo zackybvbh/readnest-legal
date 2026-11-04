@@ -92,4 +92,4 @@ Questions about these Terms: **zackysstudio.support@gmail.com**
 
 ### 10. Контакты
 
-Вопросы по настоящим Условиям: **support.readnest@gmail.com**
+Вопросы по настоящим Условиям: **zackysstudio.support@gmail.com**
