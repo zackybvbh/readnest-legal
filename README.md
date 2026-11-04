@@ -7,4 +7,4 @@ Official legal documents for the **ReadNest** app (book reader for EPUB, FB2, MO
 - [Privacy Policy / Политика конфиденциальности](privacy)
 - [Terms of Use / Условия использования](terms)
 
-Contact / Контакты: **support.readnest@gmail.com**
+Contact / Контакты: **zackysstudio.support@gmail.com**
