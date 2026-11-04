@@ -48,7 +48,7 @@ If the app ever starts processing data differently (for example, if cloud sync i
 
 ### Contact
 
-Questions about this policy: **support.readnest@gmail.com**
+Questions about this policy: **zackysstudio.support@gmail.com**
 
 ---
 
@@ -92,4 +92,4 @@ ReadNest не предназначено для детей младше 13 ле�
 
 ### Контакты
 
-Вопросы по этой политике: **support.readnest@gmail.com**
+Вопросы по этой политике: **zackysstudio.support@gmail.com**
