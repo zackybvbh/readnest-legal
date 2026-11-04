@@ -4,7 +4,7 @@
 
 **Developer / Разработчик:** ZackysStudio
 **App / Приложение:** ReadNest — book reader (EPUB, FB2, MOBI, TXT, PDF)
-**Contact / Контакты:** support.readnest@gmail.com
+**Contact / Контакты:** zackysstudio.support@gmail.com
 
 ---
 
@@ -48,7 +48,7 @@ We may update the App and these Terms. The current version of the Terms is alway
 
 ### 10. Contact
 
-Questions about these Terms: **support.readnest@gmail.com**
+Questions about these Terms: **zackysstudio.support@gmail.com**
 
 ---
 
